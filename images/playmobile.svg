@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="play-button" transform="translate(0 0)">
+    <g id="Group_3843" data-name="Group 3843" transform="translate(0 0)">
+      <path id="Path_27119" data-name="Path 27119" d="M10,0A10,10,0,1,0,20,10,10,10,0,0,0,10,0Zm4.211,10.319a.714.714,0,0,1-.321.321v0L8.176,13.5a.714.714,0,0,1-1.034-.643V7.143A.714.714,0,0,1,8.176,6.5l5.714,2.857A.714.714,0,0,1,14.211,10.319Z" fill="#1b2437"/>
+    </g>
+  </g>
+</svg>
